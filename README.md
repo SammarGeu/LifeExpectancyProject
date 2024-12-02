@@ -15,3 +15,7 @@ Libraries:
 Weka (or another library for implementing the Random Forest algorithm)
 JavaFX or Swing for GUI (if applicable)
 Apache Commons Math for statistical calculations (optional)
+
+
+![Uploading Screenshot 2024-12-02 at 6.35.50 PM.png…]()
+
