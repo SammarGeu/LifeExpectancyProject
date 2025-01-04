@@ -17,5 +17,6 @@ JavaFX or Swing for GUI (if applicable)
 Apache Commons Math for statistical calculations (optional)
 
 
-![Uploading Screenshot 2024-12-02 at 6.35.50 PM.png…]()
+![Screenshot 2025-01-04 at 9 55 04 AM](https://github.com/user-attachments/assets/b263ae29-9f84-4d1a-b199-17d8eae60376)
+
 
